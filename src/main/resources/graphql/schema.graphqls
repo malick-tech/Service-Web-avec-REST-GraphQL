@@ -1,0 +1,13 @@
+type Personne {
+    id: ID!
+    nom: String!
+    prenom: String!
+    dateNaissance: String!
+    adresse: String!
+    telephone: String!
+}
+
+type Query {
+    listerPersonne: [Personne]
+    rechercherPersonne(id: ID!): Personne
+}
