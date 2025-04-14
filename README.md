@@ -59,7 +59,9 @@ query {
     id
     nom
     prenom
-    email
+    dateNaissance
+    adresse
+    telephone
   }
 }
 ```
