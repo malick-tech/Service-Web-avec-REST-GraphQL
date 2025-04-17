@@ -31,7 +31,7 @@ Il a été réalisé dans le cadre d'un examen du Master 2 Réseaux et Systèmes
 ```bash
 # Créer la base de données
 mysql -u root -p
-CREATE DATABASE personnes_db;
+CREATE DATABASE personne;
 ```
 
 ### 2. Backend (Spring Boot)
