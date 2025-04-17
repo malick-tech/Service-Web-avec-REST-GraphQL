@@ -41,7 +41,7 @@ git clone https://github.com/username/service-web-rest-graphql.git
 cd service-web-rest-graphql/backend
 
 # Configurer la base de données dans src/main/resources/application.properties
-# spring.datasource.url=jdbc:mysql://localhost:3306/personnes_db
+# spring.datasource.url=jdbc:mysql://localhost:3306/personne
 # spring.datasource.username=root
 # spring.datasource.password=votre_mot_de_passe
 
