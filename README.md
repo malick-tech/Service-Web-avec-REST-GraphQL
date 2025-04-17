@@ -23,7 +23,7 @@ Il a été réalisé dans le cadre d'un examen du Master 2 Réseaux et Systèmes
 - Java 17 ou supérieur
 - Node.js 16.x ou supérieur
 - MySQL 8.0
-- Maven ou Gradle (selon la configuration du projet)
+- Maven 
 
 ## 🚀 Installation
 
